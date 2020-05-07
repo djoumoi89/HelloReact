@@ -1,0 +1,26 @@
+{
+  "name": "nelly",
+  "version": "1.0.0",
+  "main": "src/index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "babel-core": "^6.26.3",
+    "babel-plugin-transform-class-properties": "^6.24.1",
+    "babel-preset-env": "^1.7.0",
+    "babel-preset-react": "^6.24.1",
+    "hello-react": "^0.1.0",
+    "parcel-bundler": "^1.12.4"
+  },
+  "dependencies": {
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1"
+  },
+  "scripts": {
+    "start": "parcel public/index.html"
+  },
+  "babel": {
+    "presets": ["env","react" ],
+    "plugins": ["transform-class-properties"]
+   
+  }
+}
