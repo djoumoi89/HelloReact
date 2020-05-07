@@ -1,0 +1,58 @@
+
+- C'est le dev web ?
+
+- Navigateur Chrome / Firefox
+
+- Page web static.
+- HTML / CSS / Javascrip
+- Html ----> Skelton - Structure
+- CSS (Cascading Style Sheet) -----> Styling
+- JS -------> Interaction.
+ --- [ALWAYS LEARN THE BASIC] ---
+
+
+- Page web dynamique. [Client / Serveur]
+
+------------------------------------------
+Client / Serveur
+
+- Client --> Navigateur (Affichage)
+- Serveur --> Une entite a distance (Traitement de donnees)
+- Librairie : Notre code qui consome la Librairie. 
+- Framework : Notre code est consome par le Framework
+
+--------------------------------
+- Les metiers du web :
+
+- Frontend Developer 
+- Basics : ReactJs / AngularJs / VueJs / amberJs 
+
+- Backend Developer : 
+- PHP / JS / GO / Python / RUST / Ruby ...
+- Symfony(PHP) / NodeJs / Flusk/Django ... etc
+Base de donnes
+- SQL ----> Postgres / mysql / mssql
+- NoSQL  ----> MangoDB
+
+- Fullstack developer
+- Frontend / Backend Developer 
+
+
+- L'environement de developement.
+- Systeme de controle de version. GIT [SVN] -- TOOLS
+- Github / Bitbucket / Gitlab
+
+
+========================
+1 - Cree un compte github : https://github.com/
+2 - Create a [repository] for your exercises / learning path.
+3 - Telecharger Git : https://gitforwindows.org/
+
+- git clone [url] ===> Cloner mon projet localement.
+---------------
+- Pour pusher vers le Serveur
+- git add . [Ajout tout]
+- git commit -m "[MESSAGE]"
+- git push
+--------------- 
+
